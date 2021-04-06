@@ -1,5 +1,5 @@
 # Welcome to this README.
-# SPEEDTYPER GAME BY DAVID
+# SPEEDTYPER GAME
 # WHY THIS APP?
 # I found this code in a YT tutorial from @shakilahmedatik. I started this project because i really like competetive typing. (my best is 110wpm on a  1min text) 
 # JOURNEY:
@@ -10,5 +10,5 @@
 # I also changed the images, path, fonts, the name of the game and solved some other issues i ran into. 
 
 # In the next few days, i will try to replicate this game using my skills and this code.
-# SPEEDTYPER GAME BY DAVID
+# SPEEDTYPER GAME
 
